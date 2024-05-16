@@ -1,0 +1,70 @@
+.carousel-caption{
+    background-color: rgba(255, 255, 255, 0.8); /* Bright white background */
+    width: 100%;
+    left:0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    color: #333; /* Dark text color for better contrast */
+}
+
+.team .col-lg-4 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.section-divider{ 
+    margin: 3rem 0;
+    border-top: 1px solid #eee; /* Light gray border for section divider */
+}
+
+.footer-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #333; /* Dark text color for better contrast */
+}
+
+@media (min-width: 1200px) {
+  .feature-heading {
+    margin-top: 10rem;
+  }
+}
+
+@media (max-width: 540px) {
+    .carouselImg {
+        display: none;
+    }
+    
+    .team {
+        margin-top: 2rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
